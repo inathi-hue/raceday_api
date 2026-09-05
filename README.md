@@ -10,3 +10,6 @@ This repository contains **Part 1** of the PoE: the ERD, the API endpoint plan, 
 - **Participant** – can create an account, browse events, enter an event by selecting a category, view their own enrolments, and track their personal results.
 
 ## Repository structure
+ERD is untitled png 
+API endpoint plan is prog_api
+sql file is raceday_api.sql
