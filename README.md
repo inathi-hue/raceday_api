@@ -2,7 +2,7 @@
 
 RaceDay is a full-stack event management system for the South African road running, walking, and cycling community. Event Organisers can create and manage events and categories and capture participant results, while Participants can browse events, enrol via a category, and track their own results.
 
-This repository contains **Part 1** of the PoE: the ERD, the API endpoint plan, and the SQL database script.
+
 
 ## Roles
 
