@@ -147,7 +147,7 @@ INSERT INTO dbo.Results (user_id, username, Category_title, Event_type) VALUES
 (4, 'lindiwe.cyclist', 'Cycle Tour - 109km Full', 'Cycling');
 GO
 
--- Quick sanity check - run these after the script to confirm it worked
+--dnt forget to test these , also double check img 
 -- SELECT * FROM dbo.Users;
 -- SELECT * FROM dbo.Organiser;
 -- SELECT * FROM dbo.Events;
